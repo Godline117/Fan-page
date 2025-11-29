@@ -1,2 +1,0 @@
-# Fan-page
-proyecto final
